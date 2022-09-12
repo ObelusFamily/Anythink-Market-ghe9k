@@ -24,3 +24,10 @@ Make sure your server is up and running to serve requests.
 - Profile page (URL: /#/@username, /#/@username/favorites )
   - Show basic user info
   - List of items populated from seller's items or user favorite items
+
+  ### Instructions to get set up and running
+
+  1. Clone Repo
+  2. Make sure you have Docker installed on your computer
+  3. Run 'docker-compose up' from the root project directory
+  4. 
